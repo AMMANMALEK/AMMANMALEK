@@ -1,5 +1,5 @@
 <h1 align="center">AMMAN MALEK</h1>
-<h3 align="center">Backend Developer | Java • Spring Boot • </h3>
+<h3 align="center">Backend Developer | Nodejs • Mongodb • </h3>
 
 <!-- <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -11,8 +11,8 @@
 
 ### 👨‍💻 About Me
 - Backend-focused software engineering student from India  
-- Strong in **DSA, Java, JavaScript, Spring Boot**
-- Currently learning **Spring Boot Microservices & Backend Architecture**
+- Strong in **DSA, JavaScript, Java **
+- Currently learning **middleware & Backend Architecture**
 - Actively preparing for **product-based company roles**
 
 ---
